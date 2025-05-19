@@ -52,22 +52,3 @@ Navigation Execution: The system sends motor commands based on planned path.
 Real-time Monitoring: Includes obstacle avoidance, performance metrics like latency, and efficiency.
 
 User Interaction: Graphical interface to initiate autonomous runs and monitor path updates.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie
