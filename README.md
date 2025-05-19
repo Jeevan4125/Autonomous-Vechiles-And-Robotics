@@ -1,4 +1,5 @@
 🚗🤖 Autonomous Vehicles and Robotics System
+
 This project demonstrates an AI-powered autonomous navigation system combining robotics, sensor fusion, and real-time path planning. The system enables smart robotic vehicles to scan environments, detect obstacles, plan efficient paths, and navigate safely using intelligent decision-making algorithms.
 
 🔑 Key Features
