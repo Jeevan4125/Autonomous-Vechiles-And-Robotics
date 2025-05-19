@@ -20,8 +20,7 @@ This project demonstrates an AI-powered autonomous navigation system combining r
 6. Real-Time Embedded Systems
 
 🧰 Tools & Languages
-
-1 .Programming Language: Python
+1. Programming Language: Python
 
 Libraries & Tools:
 
