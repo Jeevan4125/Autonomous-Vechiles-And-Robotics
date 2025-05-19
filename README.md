@@ -4,6 +4,7 @@ This project demonstrates an AI-powered autonomous navigation system combining r
 
 Key Features:-
 
+
 Autonomous Navigation:Real-time decision-making for autonomous vehicles and robots.
 
 Sensor Fusion: Integration of LIDAR and camera data for enhanced obstacle detection.
@@ -19,6 +20,7 @@ Scalability: Modular architecture that supports multi-robot coordination and fut
 Technologies Used
 Artificial Intelligence (AI):-
 
+
 Machine Learning (ML)
 Robotics Systems
 Sensor Fusion (LIDAR + Camera)
@@ -26,6 +28,7 @@ Path Planning Algorithms (Graph-based)
 Real-Time Embedded Systems
 
 Tools & Languages:-
+
 
 Programming Languages: Python
 
@@ -40,6 +43,7 @@ Matplotlib (for visualization)
 Hardware Interfaces (LIDAR, Camera, Motor Controllers)
 
 How It Works:-
+
 
 Environment Scanning: Robot uses LIDAR and camera sensors to scan surroundings.
 
